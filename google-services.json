@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324586231792",
+    "project_id": "android-task-for-tech-unicorn",
+    "storage_bucket": "android-task-for-tech-unicorn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324586231792:android:b42590fbea87a5b01faf35",
+        "android_client_info": {
+          "package_name": "com.example.androidassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324586231792-5v7sb4ksbeu0rirrnl3ds0v1u3qpon8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4S7VA3QhAGVhF94BqIHDxd-26mMxm4mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324586231792-5v7sb4ksbeu0rirrnl3ds0v1u3qpon8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
